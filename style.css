@@ -5,16 +5,24 @@ body{
 html {
   scroll-behavior: smooth;
 }
+@font-face {
+    font-family: "american_captain";
+    src: url("American Font/AmericanCaptain.eot") format("eot");
+    src: url("American Font/AmericanCaptain.ttf")format("ttf");
+    src: url("AmericanCaptain/AnericanCaptain.woff") format("woff");
+    font-style: normal;
+    font-weight: 400;
+}
 
 #heading{
   background-color: #05090c;
   width:auto;
-  height: 670px;
+  height: 100%;
 }
 
 #headlinetext{
-  font-style: SCHOOLBOOK ;
-  font-size: 100px;
+  font-style: "american_captain" ;
+  font-size: 600%;
   color: white;
   text-align: center;
   padding-top: 400px;
