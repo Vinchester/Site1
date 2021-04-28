@@ -1,0 +1,106 @@
+body{
+  margin: 0;
+  background-color: #D0D0D0;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+#heading{
+  background-color: #05090c;
+  width:auto;
+  height: 670px;
+}
+
+#headlinetext{
+  font-style: SCHOOLBOOK ;
+  font-size: 100px;
+  color: white;
+  text-align: center;
+  padding-top: 400px;
+}
+#Down{
+  padding-bottom: 40px;
+  text-align: center;
+}
+#pauseblocks{
+  background-color:#D0D0D0;
+  width:auto;
+  height: 30px;
+}
+#blocks1{
+  background-color: #E8E8E8;
+  border: 3px solid black;
+  padding-top: 30px;
+  padding-right: 30px;
+  padding-left: 20px;
+  margin-left: 15px;
+  margin-top: 15px;
+  margin-right: 30px;
+  float: right;
+}
+#img1{
+  border: 9px solid #D3D3D3;
+}
+#blocks2{
+  background-color: #E8E8E8;
+  border: 3px solid black;
+  padding-top: 30px;
+  padding-right: 20px;
+  padding-left: 20px;
+  margin-left: 15px;
+  margin-top: 15px;
+  float: right;
+  margin-right: 15px;
+}
+#img2{
+  border: 9px solid #D3D3D3;
+}
+#blocks3{
+  background-color: #E8E8E8;
+  border: 3px solid black;
+  padding-top: 30px;
+  padding-right: 20px;
+  padding-left: 20px;
+  margin-left: 15px;
+  margin-top: 15px;
+  margin-right: 830px;
+}
+#img3{
+  border: 9px solid #D3D3D3;
+}
+#pausetext{
+  color: white;
+  text-align: center;
+  font-size: 40px;
+  background-color: black;
+  height: 60px;
+  width: auto;
+  margin-top: 50px;
+}
+.blockstext{
+  font-size: 20px;
+  color:black;
+  padding-top: 25px;
+}
+#video1{
+  text-align: center;
+}
+#bookend{
+  background-color: #05090c;
+  width: auto;
+  height: 310px;
+}
+#bookendtext{
+    font-style: CENTURY SCHOOLBOOK;
+    font-size: 50px;
+    color: white;
+    text-align: left;
+    padding-top: 20px;
+    padding-left: 35px;
+}
+#datatext{
+  font-size: 20px;
+  color: white;
+  margin-left: 50px;
+}
