@@ -11,24 +11,24 @@ html {
     src: url("American Font/AmericanCaptain.ttf")format("ttf");
     src: url("AmericanCaptain/AnericanCaptain.woff") format("woff");
     font-style: normal;
-    font-weight: 400;
+    font-weight: normal;
 }
 
 #heading{
   background-color: #05090c;
   width:auto;
-  height: 100%;
+  height: 100vh;
 }
 
 #headlinetext{
   font-style: "american_captain" ;
-  font-size: 600%;
+  font-size: 15vh;
   color: white;
   text-align: center;
-  padding-top: 30%;
+  padding-top: 50vh;
 }
 #Down{
-  padding-bottom: 40px;
+  padding-bottom: 4vh;
   text-align: center;
 }
 #pauseblocks{
@@ -36,15 +36,20 @@ html {
   width:auto;
   height: 30px;
 }
+.img{
+  width: 45vh;
+  height: auto;
+  text-align: center;
+}
 #blocks1{
   background-color: #E8E8E8;
-  border: 3px solid black;
-  padding-top: 30px;
-  padding-right: 30px;
-  padding-left: 20px;
-  margin-left: 15px;
-  margin-top: 15px;
-  margin-right: 30px;
+  border: 0.5vh solid black;
+  padding-top: 3vh;
+  padding-right: 3vh;
+  padding-left: 2vh;
+  margin-left: 1.5vh;
+  margin-top: 1.5vh;
+  margin-right: 2vh;
   float: right;
 }
 #img1{
@@ -52,27 +57,28 @@ html {
 }
 #blocks2{
   background-color: #E8E8E8;
-  border: 3px solid black;
-  padding-top: 30px;
-  padding-right: 20px;
-  padding-left: 20px;
-  margin-left: 15px;
-  margin-top: 15px;
+  border: 0.5vh solid black;
+  padding-top: 3vh;
+  padding-right: 3vh;
+  padding-left: 2vh;
+  margin-left: 1.5vh;
+  margin-top: 1.5vh;
+  margin-right: 2vh;
   float: right;
-  margin-right: 15px;
 }
+
 #img2{
   border: 9px solid #D3D3D3;
 }
 #blocks3{
   background-color: #E8E8E8;
-  border: 3px solid black;
-  padding-top: 30px;
-  padding-right: 20px;
-  padding-left: 20px;
-  margin-left: 15px;
-  margin-top: 15px;
-  margin-right: 830px;
+  border: 0.5vh solid black;
+  padding-top: 3vh;
+  padding-right: 3vh;
+  padding-left: 2vh;
+  margin-left: 1.5vh;
+  margin-top: 1.5vh;
+  margin-right: 130vh;
 }
 #img3{
   border: 9px solid #D3D3D3;
@@ -112,3 +118,4 @@ html {
   color: white;
   margin-left: 50px;
 }
+
